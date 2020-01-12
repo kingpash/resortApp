@@ -1,0 +1,10 @@
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/obj/Debug/Bautista_HW_3_Resort.ResortForm.resources
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/obj/Debug/Bautista_HW_3_Resort.Properties.Resources.resources
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/bin/Debug/Bautista_HW_3_Resort.exe.config
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/bin/Debug/Bautista_HW_3_Resort.exe.mdb
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/bin/Debug/Bautista_HW_3_Resort.pdb
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/bin/Debug/Bautista_HW_3_Resort.exe
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/obj/Debug/Bautista_HW_3_Resort.exe
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/obj/Debug/Bautista_HW_3_Resort.exe.mdb
+/Users/pablobautista/Documents/SPU/CSC/3220/Projects/Bautista_HW_3_Resort/obj/Debug/Bautista_HW_3_Resort.pdb
